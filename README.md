@@ -7,7 +7,7 @@
 | No | ISI | PENJELASAN | 
 | -- | --- | ---------- | 
 | 1. | Latihan Praktikum 4 | [penjelasan](#TugasLatihan-4) | 
-| 2. | Tugas Praktium 4 | [penjelasan](#TugasPraktikum-4) | 
+| 2. | Tugas Praktikum 4 | [penjelasan](#TugasPraktikum-4) | 
 
 ## TugasLatihan 4
 ![gambar output](Gambar/latihan4.png)
